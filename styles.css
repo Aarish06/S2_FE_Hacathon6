@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container {
+    margin-top: 50px;
+}
+textarea {
+    width: 80%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    background: #f4f4f4;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+button {
+    margin-left: 5px;
+}
